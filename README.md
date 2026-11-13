@@ -1,5 +1,7 @@
 # Smart Power Distribution Module (PDM)
 
+![ARTTU Formula Student Car](assets/car.webp)
+
 For this project, I want to build the control and monitoring system for a solid-state 12V Power Distribution Module, based on the PDM I have been working on for my Formula Student team.
 
 On our car, we used to rely on mechanical relays and a physical fuse box. Whenever a fuse blew or we needed to check how much current something was drawing, there was no clean way to see it or recover without checking fuses by hand. This project replaces that setup with a smart, solid-state unit that powers, protects, and monitors all 12V loads on the car.
